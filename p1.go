@@ -5,6 +5,6 @@ import (
 )
 
 func P() {
-	fmt.Println("Жопа жопная")
+	fmt.Println("Жопа жопная,ааааааааааа")
 
 }
